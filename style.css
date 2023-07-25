@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f8ff;
+}
+  
+  .container {
+    max-width: 300px;
+    margin: auto;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+  
+  input {
+    display: block;
+    width: 80%;
+    padding: 6px;
+    margin: 10px auto;
+}
+  
+button {
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 6px;
+    width: 30%;
+    background-color: #fff5ee;
+    margin-right: 3px;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+  }
+  
